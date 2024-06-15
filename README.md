@@ -47,7 +47,8 @@ The LittleLemon Django project is designed as the final project for the Meta Dja
 
 ## Screenshot
 
-![Project Screenshot]([https://github.com/MKObyte/LittleLemon-Django/blob/main/screenshot.png](https://github.com/MKObyte/LittleLemon-Django/blob/main/Screenshot.png))
+![Project Screenshot](https://github.com/MKObyte/LittleLemon-Django/blob/main/Screenshot.png)
+
 
 ## Installation
 
